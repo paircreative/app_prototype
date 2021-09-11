@@ -103,7 +103,7 @@
                               <div class="collapse navbar-collapse" id="navbarCollapse">                                      
                                         <ul class="navbar-nav me-auto mb-2 mb-md-0">
                                             <li class="nav-item" style="padding: 0px 10px;">
-                                                <a class="nav-link" href="scanner.php"><i class="bi bi-search"></i> Scanner</a>
+                                                <a class="nav-link" href="scanner.php"><i class="bi bi-search"></i> Scanner Page</a>
                                             </li>
                                             <li class="nav-item" style="padding: 0px 10px;">
                                                 <a class="nav-link" href="stockstotrade.php"><i class="bi bi-arrow-up-right-square"></i> Stocks To Trade</a>
