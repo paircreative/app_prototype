@@ -103,16 +103,16 @@
                               <div class="collapse navbar-collapse" id="navbarCollapse">                                      
                                         <ul class="navbar-nav me-auto mb-2 mb-md-0">
                                             <li class="nav-item" style="padding: 0px 10px;">
-                                                <a class="nav-link" href="scanner"><i class="bi bi-search"></i> Scanner</a>
+                                                <a class="nav-link" href="scanner.php"><i class="bi bi-search"></i> Scanner</a>
                                             </li>
                                             <li class="nav-item" style="padding: 0px 10px;">
-                                                <a class="nav-link" href="stockstotrade"><i class="bi bi-arrow-up-right-square"></i> Stocks To Trade</a>
+                                                <a class="nav-link" href="stockstotrade.php"><i class="bi bi-arrow-up-right-square"></i> Stocks To Trade</a>
                                             </li>
                                             <li class="nav-item" style="padding: 0px 10px;">
                                                 <a class="nav-link" href="insights"><i class="bi bi-chat-right-text"></i> News and Insights</a>
                                             </li>
                                             <li class="nav-item" style="padding: 0px 10px;">
-                                                <a class="nav-link" href="riskreward"><i class="bi bi-calculator"></i> Risk Reward</a>
+                                                <a class="nav-link" href="riskreward.php"><i class="bi bi-calculator"></i> Risk Reward</a>
                                             </li>
                                             <!--<li class="nav-item" style="padding: 0px 10px;">
                                                 <a class="nav-link" aria-current="page" href="index"><i class="bi bi-clipboard-data"></i></i> Portfolio</a>
